@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FirstMAUI.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Spacing="100"
+            Padding="0,0"
+            VerticalOptions="Center">
+
+            <WebView
+                Source="https://www.xbox.com/ru-RU/"
+                MinimumHeightRequest="500"
+                MaximumHeightRequest="500"
+                x:Name="webView"
+                Scale="1"
+                />
+
+                <!--MinimumWidthRequest="600"-->
+
+
+
+            <Button
+                x:Name="CounterBtn"
+                Text="Start process"
+                SemanticProperties.Hint="Counts the number of times you click"
+                Clicked="OnCounterClicked"
+                HorizontalOptions="Center" />
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+
+</ContentPage>
+    
+ 

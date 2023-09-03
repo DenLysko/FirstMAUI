@@ -1,0 +1,59 @@
+{
+   "checksum": "0f8efdd7939b1d9dd7f24c8fd0773fba",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13338240085237120",
+            "date_last_used": "0",
+            "guid": "9ce9a13e-6066-4d54-b186-4d503cf6f7b1",
+            "id": "7",
+            "name": "Booking.com",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://s3.amazonaws.com/amundsen/redirect/19q2/booking.html?utm_source=win32&utm_medium=favorite"
+         }, {
+            "date_added": "13338240085235188",
+            "date_last_used": "0",
+            "guid": "7527318b-ed50-495b-a616-bc094fd8763f",
+            "id": "6",
+            "name": "Яндекс",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "http://yandex.ru/?clid=1920673"
+         } ],
+         "date_added": "13338240085187927",
+         "date_last_used": "0",
+         "date_modified": "13338240085237120",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13338240085187931",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13338240085187933",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

@@ -1,0 +1,5 @@
+2023/09/03-21:41:26.316 3fd0 Creating DB C:\FirstMAUI\FirstMAUI\bin\Release\net8.0-windows10.0.19041.0\win10-x64\FirstMAUI.exe.WebView2\EBWebView\Default\Session Storage since it was missing.
+2023/09/03-21:41:26.338 3fd0 Reusing MANIFEST C:\FirstMAUI\FirstMAUI\bin\Release\net8.0-windows10.0.19041.0\win10-x64\FirstMAUI.exe.WebView2\EBWebView\Default\Session Storage/MANIFEST-000001
+2023/09/03-21:41:32.476 40c4 Level-0 table #5: started
+2023/09/03-21:41:32.569 40c4 Level-0 table #5: 12319 bytes OK
+2023/09/03-21:41:32.572 40c4 Delete type=0 #3
